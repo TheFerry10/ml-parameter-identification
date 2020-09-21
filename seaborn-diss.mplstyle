@@ -1,0 +1,76 @@
+figure.facecolor: white
+figure.figsize: 6.3, 4.725
+figure.autolayout : True 
+
+text.color: .15
+text.usetex: True
+
+axes.labelcolor: .15
+axes.axisbelow: True
+axes.grid: True
+axes.facecolor: EAEAF2
+axes.labelsize: 10
+axes.titlesize: 10
+axes.spines.left: True
+axes.spines.bottom: True
+axes.spines.right: True
+axes.spines.top: True
+axes.edgecolor: .15
+axes.linewidth: 1.0
+axes.prop_cycle: cycler('color', ['1f77b4', 'ff7f0e', '2ca02c', 'd62728', '9467bd', '8c564b', 'e377c2', '7f7f7f', 'bcbd22', '17becf'])
+axes.formatter.limits : -3, 3
+#axes.formatter.use_mathtext : True
+
+legend.fontsize: 8.8
+legend.frameon: True
+legend.numpoints: 1
+legend.scatterpoints: 1
+legend.edgecolor: .15
+legend.framealpha: None
+legend.facecolor: inherit
+
+grid.linestyle: -
+grid.color: white
+grid.linewidth: 0.8
+
+xtick.labelsize: 8.8
+ytick.labelsize: 8.8
+xtick.major.width: 1.0
+ytick.major.width: 1.0
+xtick.minor.width: 0.8
+ytick.minor.width: 0.8
+xtick.major.size: 4.8
+ytick.major.size: 4.8
+xtick.minor.size: 3.2
+ytick.minor.size: 3.2
+xtick.bottom: True
+ytick.left: True
+xtick.direction: out
+ytick.direction: out
+xtick.color: .15
+ytick.color: .15
+
+lines.markeredgecolor: k
+lines.markeredgewidth: 0.6
+lines.linewidth: 1.2
+lines.markersize: 4.8
+lines.solid_capstyle: round	
+
+font.size: 10
+font.family         : serif
+font.style          : normal
+font.variant        : normal
+font.weight         : normal
+font.stretch        : normal
+font.serif          : Computer Modern Roman, DejaVu Serif, Bitstream Vera Serif, New Century Schoolbook, Century Schoolbook L, Utopia, ITC                                
+
+scatter.edgecolors: k
+image.cmap: Greys
+patch.linewidth: 0.8
+mathtext.fontset : cm
+
+savefig.bbox        : tight
+savefig.pad_inches  : 0.1  
+
+                         
+                         
