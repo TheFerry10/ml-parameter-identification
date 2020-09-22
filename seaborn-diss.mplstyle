@@ -3,7 +3,7 @@ figure.figsize: 6.3, 4.725
 figure.autolayout : True 
 
 text.color: .15
-text.usetex: True
+#text.usetex: True
 
 axes.labelcolor: .15
 axes.axisbelow: True
