@@ -26,3 +26,6 @@ The trained model should predict the material parameters from stress-strain curv
 * Implement a machine learning model.
 * Training the model and optimize hyperparameter.
 * Evaluate the generalization performance on the test data.
+
+## Using Anaconda 
+The environment file `mlenv.yml` was used to produce the output presented in the Jupyter notebook. You can find a helpful guide about anaconda installation environments through the following link: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file
